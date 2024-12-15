@@ -1,2 +1,5 @@
 # bsc-thesis-materials
-Some of the materials used in my BSc. Thesis in Computer Science
+
+## Thesis
+
+The official report document `Iris-Recognition-using-Functional-Data-Analysis.pdf` is included in the **thesis** folder.
